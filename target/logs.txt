@@ -1,0 +1,6 @@
+На странице https://trudogolik24.ru/ элемент с имененм poisk имеет XSS уязвимость <script>var inject = true</script>! 
+На странице https://trudogolik24.ru/ элементов с уязвимостью <scr<script>ipt>var inject = true</scr</script>ipt> не обнаружено. 
+На странице https://yandex.ru/ элементов с уязвимостью <script>var inject = true</script> не обнаружено. 
+На странице https://yandex.ru/ элементов с уязвимостью <scr<script>ipt>var inject = true</scr</script>ipt> не обнаружено. 
+На странице https://www.gismeteo.ru/ элементов с уязвимостью <script>var inject = true</script> не обнаружено. 
+На странице https://www.gismeteo.ru/ элементов с уязвимостью <scr<script>ipt>var inject = true</scr</script>ipt> не обнаружено. 
